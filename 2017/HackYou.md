@@ -4,12 +4,12 @@
 * [CTB 10 - ProtSSH](#ctb-10---protssh)
 * [csiM 10 - Lonely](#csim-10---lonely)
 * [Forensic 300 - Three Point Five Inches Reborn](#forensic-300---three-point-five-inches-reborn)
-* [CTB 200 — IDK](#ctb-200-—-idk)
-* [Network 200 — Hugerar](#network-200-—-hugerar)
-* [Reverse 100 — Door to Hacking](#reverse-100-—-door-to-hacking)
-* [Misc 300 — Brainbank](#misc-300-—-brainbank)
-* [Forensic 200 — EvilHacker](#forensic-200-—-evilhacker)
-* [Bonus: Network 100 - Telegram](#bonus:-network-100---telegram)
+* [CTB 200 — IDK](#ctb-200---idk)
+* [Network 200 — Hugerar](#network-200---hugerar)
+* [Reverse 100 — Door to Hacking](#reverse-100---door-to-hacking)
+* [Misc 300 — Brainbank](#misc-300---brainbank)
+* [Forensic 200 — EvilHacker](#forensic-200---evilhacker)
+* [Bonus: Network 100 - Telegram](#bonus-network-100---telegram)
 
 ### Web 10 - Palevo
 На сайте видим мини-блог. Для начала решаем просканировать на предмет файлов и папок:
